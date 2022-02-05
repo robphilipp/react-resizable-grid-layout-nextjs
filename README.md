@@ -1,0 +1,1 @@
+An example of using the [react-resizable-grid-layout](https://github.com/robphilipp/react-grid-layout) within a [NextJs](https://nextjs.org) app.
